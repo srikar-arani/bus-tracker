@@ -2,8 +2,6 @@ import requests
 import json
 import time
 
-route_id = "C53"
-
 bpos_url = "http://api.wmata.com/Bus.svc/json/jBusPositions"
 stop_url = "http://api.wmata.com/Bus.svc/json/jStops"
 next_url = "http://api.wmata.com/NextBusService.svc/json/jPredictions"
@@ -98,5 +96,6 @@ def next_stops_for_route(route_id):
 
     return results
 
-for info in next_stops_for_route("C53"):
-    print(info)
+if __name__ == "__main__":
+    for info in next_stops_for_route("C53"):
+        print(info)
