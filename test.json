@@ -1,0 +1,108 @@
+{'RouteID': 'C21', 'DirectionText': 'North to Minnesota Av', 'DirectionNum': '0', 'Minutes': 4, 'VehicleID': '2851', 'TripID': '11000010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 10, 'VehicleID': '5468', 'TripID': '16755010'}
+{'RouteID': 'C21', 'DirectionText': 'North to Minnesota Av', 'DirectionNum': '0', 'Minutes': 4, 'VehicleID': '2851', 'TripID': '11000010'}
+{'RouteID': 'C21', 'DirectionText': 'South to Anacostia', 'DirectionNum': '1', 'Minutes': 10, 'VehicleID': '2845', 'TripID': '34578010'}
+{'RouteID': 'C21', 'DirectionText': 'North to Minnesota Av', 'DirectionNum': '0', 'Minutes': 6, 'VehicleID': '2851', 'TripID': '11000010'}
+{'RouteID': 'C21', 'DirectionText': 'South to Anacostia', 'DirectionNum': '1', 'Minutes': 9, 'VehicleID': '2845', 'TripID': '34578010'}
+{'RouteID': 'C21', 'DirectionText': 'South to Anacostia', 'DirectionNum': '1', 'Minutes': 8, 'VehicleID': '2845', 'TripID': '34578010'}
+{'RouteID': 'C21', 'DirectionText': 'North to Minnesota Av', 'DirectionNum': '0', 'Minutes': 7, 'VehicleID': '2851', 'TripID': '11000010'}
+{'RouteID': 'C21', 'DirectionText': 'South to Anacostia', 'DirectionNum': '1', 'Minutes': 7, 'VehicleID': '2845', 'TripID': '34578010'}
+{'RouteID': 'C25', 'DirectionText': 'East to Skyland', 'DirectionNum': '0', 'Minutes': 1, 'VehicleID': '4562', 'TripID': '4055010'}
+{'RouteID': 'D10', 'DirectionText': 'East to Southern Av', 'DirectionNum': '0', 'Minutes': 0, 'VehicleID': '4533', 'TripID': '15315010'}
+{'RouteID': 'D10', 'DirectionText': 'East to Southern Av', 'DirectionNum': '0', 'Minutes': 0, 'VehicleID': '4533', 'TripID': '15315010'}
+{'RouteID': 'C25', 'DirectionText': 'East to Skyland', 'DirectionNum': '0', 'Minutes': 1, 'VehicleID': '4562', 'TripID': '4055010'}
+{'RouteID': 'D10', 'DirectionText': 'East to Southern Av', 'DirectionNum': '0', 'Minutes': 1, 'VehicleID': '4719', 'TripID': '14010'}
+{'RouteID': 'D10', 'DirectionText': 'East to Southern Av', 'DirectionNum': '0', 'Minutes': 1, 'VehicleID': '4719', 'TripID': '14010'}
+{'RouteID': 'D10', 'DirectionText': 'East to Southern Av', 'DirectionNum': '0', 'Minutes': 0, 'VehicleID': '4719', 'TripID': '14010'}
+{'RouteID': 'D10', 'DirectionText': 'East to Southern Av', 'DirectionNum': '0', 'Minutes': 0, 'VehicleID': '4719', 'TripID': '14010'}
+{'RouteID': 'D10', 'DirectionText': 'West to Kennedy Center', 'DirectionNum': '1', 'Minutes': 0, 'VehicleID': '4540', 'TripID': '6119010'}
+{'RouteID': 'C23', 'DirectionText': 'South to Anacostia', 'DirectionNum': '1', 'Minutes': 8, 'VehicleID': '3220', 'TripID': '36264010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 4, 'VehicleID': '5461', 'TripID': '10399010'}
+{'RouteID': 'C23', 'DirectionText': 'South to Anacostia', 'DirectionNum': '1', 'Minutes': 6, 'VehicleID': '3220', 'TripID': '36264010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 1, 'VehicleID': '5464', 'TripID': '3519010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 1, 'VehicleID': '5475', 'TripID': '14820010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 10, 'VehicleID': '5470', 'TripID': '14123010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 0, 'VehicleID': '5480', 'TripID': '9249010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 0, 'VehicleID': '5464', 'TripID': '3519010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 0, 'VehicleID': '5475', 'TripID': '14820010'}
+{'RouteID': 'C41', 'DirectionText': 'North to Mt Rainier', 'DirectionNum': '0', 'Minutes': 11, 'VehicleID': '4650', 'TripID': '5623010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 3, 'VehicleID': '5464', 'TripID': '3519010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 1, 'VehicleID': '5467', 'TripID': '33918010'}
+{'RouteID': 'C23', 'DirectionText': 'North to Deanwood', 'DirectionNum': '0', 'Minutes': 8, 'VehicleID': '2844', 'TripID': '16239010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 14, 'VehicleID': '5538', 'TripID': '26116010'}
+{'RouteID': 'C51', 'DirectionText': 'North to Tenleytown', 'DirectionNum': '0', 'Minutes': 4, 'VehicleID': '3217', 'TripID': '17010010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 17, 'VehicleID': '5470', 'TripID': '14123010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 7, 'VehicleID': '5467', 'TripID': '33918010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 0, 'VehicleID': '3300', 'TripID': '17615010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 8, 'VehicleID': '5538', 'TripID': '26116010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 4, 'VehicleID': '5467', 'TripID': '33918010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 6, 'VehicleID': '5467', 'TripID': '33918010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 5, 'VehicleID': '5467', 'TripID': '33918010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 3, 'VehicleID': '5467', 'TripID': '33918010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 2, 'VehicleID': '5468', 'TripID': '16755010'}
+{'RouteID': 'C23', 'DirectionText': 'South to Anacostia', 'DirectionNum': '1', 'Minutes': 3, 'VehicleID': '3220', 'TripID': '36264010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 0, 'VehicleID': '5468', 'TripID': '16755010'}
+{'RouteID': 'C23', 'DirectionText': 'South to Anacostia', 'DirectionNum': '1', 'Minutes': 4, 'VehicleID': '3220', 'TripID': '36264010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 0, 'VehicleID': '5468', 'TripID': '16755010'}
+{'RouteID': 'C23', 'DirectionText': 'South to Anacostia', 'DirectionNum': '1', 'Minutes': 5, 'VehicleID': '3220', 'TripID': '36264010'}
+{'RouteID': 'C23', 'DirectionText': 'South to Anacostia', 'DirectionNum': '1', 'Minutes': 6, 'VehicleID': '3220', 'TripID': '36264010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 8, 'VehicleID': '5464', 'TripID': '3519010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 7, 'VehicleID': '5464', 'TripID': '3519010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 6, 'VehicleID': '5464', 'TripID': '3519010'}
+{'RouteID': 'C31', 'DirectionText': 'West to Navy Yard', 'DirectionNum': '1', 'Minutes': 8, 'VehicleID': '3295', 'TripID': '9980010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 0, 'VehicleID': '5475', 'TripID': '14820010'}
+{'RouteID': 'C55', 'DirectionText': 'East to Union Station', 'DirectionNum': '0', 'Minutes': 0, 'VehicleID': '3214', 'TripID': '36379010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 3, 'VehicleID': '5469', 'TripID': '7093010'}
+{'RouteID': 'C55', 'DirectionText': 'East to Union Station', 'DirectionNum': '0', 'Minutes': 1, 'VehicleID': '3214', 'TripID': '36379010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 2, 'VehicleID': '5469', 'TripID': '7093010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 5, 'VehicleID': '5475', 'TripID': '14820010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 1, 'VehicleID': '5469', 'TripID': '7093010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 6, 'VehicleID': '5475', 'TripID': '14820010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 0, 'VehicleID': '5469', 'TripID': '7093010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 14, 'VehicleID': '5467', 'TripID': '33918010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 8, 'VehicleID': '5475', 'TripID': '14820010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 9, 'VehicleID': '5475', 'TripID': '14820010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 12, 'VehicleID': '5467', 'TripID': '33918010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 0, 'VehicleID': '5538', 'TripID': '26116010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 11, 'VehicleID': '5467', 'TripID': '33918010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 1, 'VehicleID': '5538', 'TripID': '26116010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 11, 'VehicleID': '5467', 'TripID': '33918010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 3, 'VehicleID': '5538', 'TripID': '26116010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 10, 'VehicleID': '5467', 'TripID': '33918010'}
+{'RouteID': 'C25', 'DirectionText': 'East to Skyland', 'DirectionNum': '0', 'Minutes': 1, 'VehicleID': '4562', 'TripID': '4055010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 9, 'VehicleID': '5467', 'TripID': '33918010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 4, 'VehicleID': '5538', 'TripID': '26116010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 6, 'VehicleID': '5538', 'TripID': '26116010'}
+{'RouteID': 'C21', 'DirectionText': 'North to Minnesota Av', 'DirectionNum': '0', 'Minutes': 5, 'VehicleID': '2851', 'TripID': '11000010'}
+{'RouteID': 'C21', 'DirectionText': 'North to Minnesota Av', 'DirectionNum': '0', 'Minutes': 3, 'VehicleID': '2851', 'TripID': '11000010'}
+{'RouteID': 'C21', 'DirectionText': 'South to Anacostia', 'DirectionNum': '1', 'Minutes': 9, 'VehicleID': '2845', 'TripID': '34578010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 2, 'VehicleID': '5474', 'TripID': '25794010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 9, 'VehicleID': '5538', 'TripID': '26116010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 0, 'VehicleID': '5516', 'TripID': '5553010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 0, 'VehicleID': '5467', 'TripID': '33918010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 2, 'VehicleID': '5516', 'TripID': '5553010'}
+{'RouteID': 'C21', 'DirectionText': 'North to Minnesota Av', 'DirectionNum': '0', 'Minutes': 2, 'VehicleID': '2851', 'TripID': '11000010'}
+{'RouteID': 'C21', 'DirectionText': 'South to Anacostia', 'DirectionNum': '1', 'Minutes': 11, 'VehicleID': '2845', 'TripID': '34578010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 2, 'VehicleID': '5516', 'TripID': '5553010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 3, 'VehicleID': '5461', 'TripID': '10399010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 3, 'VehicleID': '5516', 'TripID': '5553010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 4, 'VehicleID': '5516', 'TripID': '5553010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 1, 'VehicleID': '5461', 'TripID': '10399010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 0, 'VehicleID': '5541', 'TripID': '7164010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 20, 'VehicleID': '5470', 'TripID': '14123010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 13, 'VehicleID': '5470', 'TripID': '14123010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 19, 'VehicleID': '5470', 'TripID': '14123010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 15, 'VehicleID': '5470', 'TripID': '14123010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 2, 'VehicleID': '5541', 'TripID': '7164010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 8, 'VehicleID': '5541', 'TripID': '7164010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 18, 'VehicleID': '5470', 'TripID': '14123010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 3, 'VehicleID': '5541', 'TripID': '7164010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 6, 'VehicleID': '5541', 'TripID': '7164010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 5, 'VehicleID': '5541', 'TripID': '7164010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 11, 'VehicleID': '5470', 'TripID': '14123010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 10, 'VehicleID': '5541', 'TripID': '7164010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 10, 'VehicleID': '5541', 'TripID': '7164010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 9, 'VehicleID': '5470', 'TripID': '14123010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 8, 'VehicleID': '5470', 'TripID': '14123010'}
+{'RouteID': 'C53', 'DirectionText': 'South to Congress Hts', 'DirectionNum': '1', 'Minutes': 7, 'VehicleID': '5470', 'TripID': '14123010'}
+{'RouteID': 'C53', 'DirectionText': 'North to Woodley Park', 'DirectionNum': '0', 'Minutes': 1, 'VehicleID': '5480', 'TripID': '9249010'}
