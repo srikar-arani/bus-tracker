@@ -3,8 +3,6 @@ import json
 import time
 import os
 
-bpos_url = "http://api.wmata.com/Bus.svc/json/jBusPositions"
-stop_url = "http://api.wmata.com/Bus.svc/json/jStops"
 next_url = "http://api.wmata.com/NextBusService.svc/json/jPredictions"
 
 headers = {
@@ -14,20 +12,11 @@ headers = {
 session = requests.Session()
 session.headers.update(headers)
 
-def get_with_delay(url, params, headers, delay=0.0):
+def get_with_delay(url, params, delay=0.0):
     time.sleep(delay)
-    response = session.get(url=url, params=params, headers=headers, timeout=5)
+    response = session.get(url=url, params=params, timeout=5)
     response.raise_for_status()
     return response
-
-def get_all_stops_for_route(route_id):
-    stop_response = get_with_delay(url=stop_url, params={}, headers=headers)
-    filtered_stop_data = [
-        stop.get("StopID") for stop in stop_response.json().get("Stops", [])
-        if route_id in stop.get("Routes", [])
-    ]
-
-    return filtered_stop_data
 
 def parse_return_as_int(r, query):
     p = r.get(query)
@@ -42,7 +31,7 @@ def get_next_bus_for_stop(stop_id, route_id):
         "StopID": stop_id
     }
 
-    next_response = get_with_delay(url=next_url, params=next_params, headers=headers)
+    next_response = get_with_delay(url=next_url, params=next_params)
     predictions = next_response.json().get("Predictions", [])
 
     filtered_predictions = [
@@ -75,18 +64,21 @@ def map_bus_time_to_color(bus_time):
     return "RED"
 
 if __name__ == "__main__":
-    with open('real_stops.json') as f:
+    with open('stops.json') as f:
         all_stops = json.load(f).get("all_stops")
 
     mapped_stops = []
-    for route in all_stops:
-        route_id = route.get("route")
-        for stop in route.get("stops"):
-            mapped_stops.append((stop, route_id))
+    for stop in all_stops:
+        mapped_stops.append((stop.get("stop_id"), stop.get("route")))
 
     while True:
-        for stop in mapped_stops:
-            bus_time = get_next_bus_for_stop(stop[0], route_id=stop[1])
-            print(f"Stop:{stop[0]} with time {bus_time} and color {map_bus_time_to_color(bus_time)}")
+        for stop_id, route_id in mapped_stops:
+            try:
+                bus_time = get_next_bus_for_stop(stop_id, route_id)
+            except (requests.RequestException, ValueError) as e:
+                print(f"Error fetching stop data for stop {stop_id}: {e}")
+                bus_time = None
+
+            print(f"Stop:{stop_id} with time {bus_time} and color {map_bus_time_to_color(bus_time)}")
         
         time.sleep(30)
